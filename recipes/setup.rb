@@ -2,7 +2,7 @@ package 'tree' do
   action :install
 end
 
-package 'emac' do
+package 'emacs' do
   action :install
 end
 
