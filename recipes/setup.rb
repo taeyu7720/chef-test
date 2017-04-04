@@ -2,6 +2,10 @@ package 'tree' do
   action :install
 end
 
+package 'emac' do
+  action :install
+end
+
 package 'ntp' do
   action :install
 end
